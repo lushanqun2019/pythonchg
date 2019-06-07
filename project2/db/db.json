@@ -1,0 +1,2 @@
+#/db/db.json
+{'user1':{'password':'111','money':2705,'locked':0},'user2':{'password':'111','money':3000,'locked':0},'user3':{'password':'111','money':20000,'locked':0},'zjl':{'password':'111','money':0,'locked':0}}
