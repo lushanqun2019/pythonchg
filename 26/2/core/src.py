@@ -1,6 +1,6 @@
 from multiprocessing import Process
 
-from lib_day23_program_2 import common
+from lib import common
 import logging.config
 import socket
 import setting
